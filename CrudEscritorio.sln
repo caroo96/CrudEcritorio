@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudEscritorio", "CrudEscritorio\CrudEscritorio.csproj", "{D3D9A38C-1443-48F1-8589-4742F879B0FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3D9A38C-1443-48F1-8589-4742F879B0FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3D9A38C-1443-48F1-8589-4742F879B0FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3D9A38C-1443-48F1-8589-4742F879B0FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3D9A38C-1443-48F1-8589-4742F879B0FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9BF7F51-4C5D-451C-B0D3-D56B2C4AB617}
+	EndGlobalSection
+EndGlobal

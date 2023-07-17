@@ -1,0 +1,16 @@
+C:\Users\wilj2\source\repos\CrudEscritorio\CrudEscritorio\obj\Debug\CrudEscritorio.csproj.AssemblyReference.cache
+C:\Users\wilj2\source\repos\CrudEscritorio\CrudEscritorio\obj\Debug\CrudEscritorio.csproj.SuggestedBindingRedirects.cache
+C:\Users\wilj2\source\repos\CrudEscritorio\CrudEscritorio\obj\Debug\CrudEscritorio.Properties.Resources.resources
+C:\Users\wilj2\source\repos\CrudEscritorio\CrudEscritorio\obj\Debug\CrudEscritorio.Views.Form1.resources
+C:\Users\wilj2\source\repos\CrudEscritorio\CrudEscritorio\obj\Debug\CrudEscritorio.csproj.GenerateResource.cache
+C:\Users\wilj2\source\repos\CrudEscritorio\CrudEscritorio\obj\Debug\CrudEscritorio.csproj.CoreCompileInputs.cache
+C:\Users\wilj2\source\repos\CrudEscritorio\CrudEscritorio\bin\Debug\CrudEscritorio.exe.config
+C:\Users\wilj2\source\repos\CrudEscritorio\CrudEscritorio\bin\Debug\CrudEscritorio.exe
+C:\Users\wilj2\source\repos\CrudEscritorio\CrudEscritorio\bin\Debug\CrudEscritorio.pdb
+C:\Users\wilj2\source\repos\CrudEscritorio\CrudEscritorio\obj\Debug\CrudEscritorio.exe
+C:\Users\wilj2\source\repos\CrudEscritorio\CrudEscritorio\obj\Debug\CrudEscritorio.pdb
+C:\Users\wilj2\source\repos\CrudEscritorio\CrudEscritorio\obj\Debug\CrudEscritorio.Views.Index.resources
+C:\Users\wilj2\source\repos\CrudEscritorio\CrudEscritorio\obj\Debug\CrudEscritorio.Views.Cliente.resources
+C:\Users\wilj2\source\repos\CrudEscritorio\CrudEscritorio\obj\Debug\CrudEscritorio.Views.Pedido.resources
+C:\Users\wilj2\source\repos\CrudEscritorio\CrudEscritorio\obj\Debug\CrudEscritorio.Views.Producto.resources
+C:\Users\wilj2\source\repos\CrudEscritorio\CrudEscritorio\obj\Debug\CrudEscritorio.Views.DetallePedido.resources
